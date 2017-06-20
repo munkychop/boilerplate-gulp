@@ -1,1 +1,1 @@
-// No need for a closure here, as Babel/Browserify will take care of that for us.
+// No need for a closure here, as Browserify will take care of that for us.
