@@ -1,7 +1,7 @@
 {
   "name": "boilerplate-gulp",
   "version": "1.0.0",
-  "description": "Hello Group project boilerplate with Gulp, Scss, Browserify, and Babel",
+  "description": "Project boilerplate with Gulp, Scss, Browserify, and Babel",
   "main": "dist/app.js",
   "scripts": {
     "lint": "eslint src/js/**",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Hello-Group/boilerplate-gulp.git"
+    "url": "git@github.com:munkychop/boilerplate-gulp.git"
   },
   "author": "Ivan Hayes",
   "license": "MIT",
