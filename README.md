@@ -5,7 +5,7 @@
 - Autoprefixer
 - ES6 (via Babel)
 - Browserify
-– ESLint
+- ESLint
 - Browsersync (for hot reloading)
 
 
